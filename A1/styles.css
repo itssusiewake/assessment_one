@@ -161,3 +161,17 @@ h2 {
   margin-left: auto;
   margin-right: auto;
 }
+
+.media {
+  background-color: #F2F2F2;
+  float: left;
+  padding: 1.6%;
+  width: 5%;
+  font-family: 'Lato', sans-serif;
+  color: #484E61;
+}
+
+.media img {
+  float: left;
+  width: 100%;
+}
